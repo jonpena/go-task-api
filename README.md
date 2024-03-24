@@ -10,4 +10,4 @@ Esta API Task Go es un backend desarrollado en Golang utilizando el framework Fi
 ## Instalación
 
 1. Clona el repositorio:
-   git clone https://github.com/jonpena/api-task-go.git
+   git clone https://github.com/jonpena/go-task-api.git
